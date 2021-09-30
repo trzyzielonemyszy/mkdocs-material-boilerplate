@@ -19,6 +19,7 @@
 
 
 ## Details
+lalalalalalla
 
 Read more 👉 [Documentation - MkDocs Material Boilerplate]
 
